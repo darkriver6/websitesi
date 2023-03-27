@@ -1,0 +1,55 @@
+.resimSlider{
+    height: 600px;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+.hakkimizda{
+    background-color: #E9ECEF;
+}
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a48;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.igri{
+    color: #343a48;
+    position: relative;
+    top: -55px;
+    font-size:40px;
+    border: 10px solid #E9ECEF;
+    background-color: #E9ECEF;
+
+}
+.ürünlerimiz{
+    background-color: #E9ECEF;
+
+}
+
+.igray{
+    color: #343a48;
+    position: relative;
+    top: -55px;
+    font-size:40px;
+    border: 10px solid #E9ECEF;
+    background-color: #E9ECEF;
+
+}
+
+.ürünCard>img:hover{
+    opacity: 0.8;
+
+}
+
+.iletişim{
+    background-color: #E9ECEF;
+}
+
+.iletişimCard>img:hover{
+    opacity: 0.8;
+    background-color:#E9ECEF ;
+}
